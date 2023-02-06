@@ -1,6 +1,6 @@
 # AWS Application Load Balancer using Terraform and Ansible
 
-![ architecture diagram of load balancer, EC2 instances and a VPC using Terraform script](/Terraform%20Project/terra.png)
+![ architecture diagram of load balancer, EC2 instances and a VPC using Terraform script](/terra.png)
 
 Terraform is an open-source infrastructure as Code tool developed by HashiCorp. It is used to define and provision the complete infrastructure using an easy-to-learn declarative language.
 
